@@ -29,7 +29,7 @@ We both are Computer Science graduate students at University Of North Carolina a
 ## Data and Source Description
 This data has been provided by Kaggle. Kaggle is an online community of data scientists and machine learners, owned by Google LLC. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science.
 
-[Kaggle Link]('https://www.kaggle.com')
+[Kaggle Link](https://www.kaggle.com)
 
 [Data Source Link](https://www.kaggle.com/harlfoxem/housesalesprediction/download)
 
@@ -47,7 +47,7 @@ We will use various visualization methods to analyze the correlation of each fea
 We have observed that there are few columns which have ambiguous values for example some entries in year renovated,bedroom and bathroom has value as 0 so we will have to decide weather they are missing values or legitimate values.
 
 ## Machine Learning
-We are planning to implement regression predictive models data visualization.
+We are planning to implement predictive regression models.
 
 ## Evaluation
 We will use the different evaluation methods such as confusion matrix, R square errors and model scores to decide the predictive models.
