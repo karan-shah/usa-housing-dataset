@@ -3,8 +3,6 @@
 This repository contains data analysis of USA housing sales.
 
 # Table Of Contents
-- [USA Housing Price Prediction](#usa-housing-price-prediction)
-- [Table Of Contents](#table-of-contents)
   - [Project and Team Introduction](#project-and-team-introduction)
     - [Team Members:](#team-members)
   - [Data and Source Description](#data-and-source-description)
